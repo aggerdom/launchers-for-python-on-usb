@@ -18,6 +18,5 @@
 
 :: !!!!!!!!!!!!!! You should change the line below this !!!!!!!!!!!!!!!!!!!
 
-SET anaconda_folderpath="\Anaconda"
-
+SET anaconda_folderpath="\Anaconda with spaces"
 
