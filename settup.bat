@@ -2,7 +2,10 @@
 SETLOCAL EnableExtensions
 SETLOCAL EnableDelayedExpansion
 CD %~dp0
+ECHO "!Myvar!"
 goto main
+
+
 
 :getScriptInfo
 	REM -- Get the USB drive's letter --
